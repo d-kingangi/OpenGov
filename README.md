@@ -1,4 +1,4 @@
-# OpenGov
+# OpenGovernance
 The flagship module of OpenGov will be the futarchy mechanism. This innovative approach to decision-making relies on prediction market signals, rather than the traditional one-person-one-vote democracy. Through prediction markets, we aim to drive outcomes that enhance a system-wide metric governing the welfare of the organization.
 
 We firmly believe that futarchy represents one of the most promising forms of decentralized governance. It allows us to hold participants accountable for their actions, making it a powerful tool for decision-making. This groundbreaking consensus mechanism, often referred to as "futarchy," was first introduced by Professor Robin Hanson, a prominent specialist in prediction markets, in his paper titled <a href="https://mason.gmu.edu/~rhanson/futarchy.html">"Vote on Values, Bet on Beliefs"</a>.
